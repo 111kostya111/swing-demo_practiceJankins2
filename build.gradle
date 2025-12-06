@@ -4,7 +4,7 @@ plugins {
 }
 
 launch4j {
-  mainClassName = 'rofrol.swing-demo'
+  mainClassName = 'SwingDemo'
 }
 
 repositories {
